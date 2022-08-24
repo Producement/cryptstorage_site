@@ -1,6 +1,6 @@
 {
-    "name": "YubiDrive",
-    "short_name": "YubiDrive",
+    "name": "SecDrive",
+    "short_name": "SecDrive",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
